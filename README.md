@@ -1,4 +1,4 @@
-# MERNalumnosFrontend
+# MERNalumnosBackend
 
 El frontend y el backend se corren con "npm start"
 
